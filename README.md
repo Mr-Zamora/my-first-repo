@@ -22,7 +22,7 @@ This lesson introduces students to GitHub, guides them through creating and publ
 - Tracks changes to your projects and helps with collaboration.
 
 **Show an example:**
-- Visit your profile ([Mr. Zamora’s GitHub](https://github.com/Mr-Zamora)) to demonstrate how repositories work.
+- Visit the profile ([Mr. Zamora’s GitHub](https://github.com/Mr-Zamora)) to demonstrate how repositories work.
 
 **Key terms:**
 - Repository: A folder for your project.

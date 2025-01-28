@@ -98,10 +98,16 @@ if __name__ == "__main__":
 - Use my `index.html` and put it in your repo.
 - Revisit your own GitHub Pages URL to confirm it loads automatically.
 
-### 5. Wrap-Up and Homework (5 minutes)
+### 5. Wrap-Up and Home learning (5 minutes)
 **Summary:**
 - Students learned to:
   - Use GitHub for creating repositories and uploading files.
   - Build a simple number-guessing game.
   - Host their project online with GitHub Pages.
+
+- Home learning
+  - Fork this repo.
+  - How? https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+ 
+
 
